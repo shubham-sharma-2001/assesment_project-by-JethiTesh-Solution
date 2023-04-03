@@ -1,0 +1,51 @@
+.b1widt {
+  /* width: 80%; */
+  /* margin-top: 3.5%; */
+  /* margin-left: 9.3%; */
+  border: 3px solid #e6eaee;
+  background: #e6eaee;
+
+  /* padding: 7%; */
+  margin-top: 2%;
+}
+.class_name {
+  /* border: 3px solid saddlebrown; */
+  margin: 9%;
+}
+.carousel-control-next {
+  /* margin-right: 15px;
+  border: 5px solid red;
+  margin-left: 120rem;
+  padding-left: 12%;
+  border-radius: 13px; */
+
+  /* width: 12%; */
+  /* height: 28rem; */
+}
+.iconleft {
+  
+  /* margin-left: 12%; */
+  /* width: 12%; */
+  /* height: 13rem; */
+  /* margin-left: 13rem; */
+  /* color: red; */
+  /* outline: black; */
+}
+.carousel-control-prev {
+  /* margin-right: 15px;
+  border: 5px solid red;
+  width: 2%;
+  height: 12%;
+  margin-right: 120vh;
+  padding-left: 12%;
+  padding: 5%;
+  border-radius: 13px; */
+}
+.caladmin{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.topgap{
+    margin-bottom: 3%;
+}

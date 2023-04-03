@@ -1,0 +1,12 @@
+
+.imags{
+    width: 100%;
+    /* border: 3px solid green; */
+}
+.imgs{
+    /* border: 3px solid red; */
+    width: 100%;
+}
+.imags img{
+    width: 100%;
+}
